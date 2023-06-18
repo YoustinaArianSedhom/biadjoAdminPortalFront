@@ -1,0 +1,17 @@
+[
+  { "Code": "AAT0", "Value": "Super Admin" },
+  { "Code": "AAT1", "Value": "IT" },
+  { "Code": "AAT2", "Value": "Technical Support" },
+  { "Code": "AAT3", "Value": "Admin" },
+  { "Code": "AAT4", "Value": "Investor" },
+  { "Code": "AAT5", "Value": "Sales" },
+  { "Code": "AAT6", "Value": "Account Manager" },
+  { "Code": "AAT7", "Value": "Call Center" },
+  { "Code": "AAT8", "Value": "Accountant" },
+  { "Code": "AAT9", "Value": "Manager Level 1" },
+  { "Code": "AAT10", "Value": "Manager Level 2" },
+  { "Code": "AAT11", "Value": "Manager Level 3" },
+  { "Code": "AAT12", "Value": "Manager Level 4" },
+  { "Code": "AAT13", "Value": "Manager Level 5" },
+  { "Code": "AAT14", "Value": "Employee" }
+]

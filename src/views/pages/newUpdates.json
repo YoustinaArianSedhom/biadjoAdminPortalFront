@@ -1,0 +1,38 @@
+[
+  {
+    "Text": "NowYouCan",
+    "URL": "RegisterDriver",
+    "Body": "RegisterDriver",
+    "Details": ""
+  },
+  {
+    "Text": "NowYouCan",
+    "URL": "RegisterUser",
+    "Body": "RegisterUser",
+    "Details": ""
+  },
+  {
+    "Text": "NowYouCan",
+    "URL": "RegisterFleetCompany",
+    "Body": "RegisterFleetCompany",
+    "Details": ""
+  },
+  {
+    "Text": "NowYouCan",
+    "URL": "RegisterClientCompany",
+    "Body": "RegisterClientCompany",
+    "Details": ""
+  },
+  {
+    "Text": "NowYouCan",
+    "URL": "ChangeUserAccountToCompany",
+    "Body": "ChangeUserAccountToCompany",
+    "Details": "ClientProfile"
+  },
+  {
+    "Text": "Search",
+    "URL": "Driver",
+    "Body": "Drivers",
+    "Details": "State"
+  }
+]
